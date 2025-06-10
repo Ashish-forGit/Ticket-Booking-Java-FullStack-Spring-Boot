@@ -8,7 +8,7 @@ import java.io.File;
 public class UserBookingService {
     private User user;
 
-    private ObjectMapper  objectMapper = new ObjectMapper();
+//    private ObjectMapper  objectMapper = new ObjectMapper();
 
     private static final String USERS_PATH = "../localDb/users.jason";
 
