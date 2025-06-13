@@ -16,7 +16,7 @@ public class UserBookingService {
 
     private List<User> userList;
 
-    private static final String USERS_PATH = "../localDb/users.jason";
+    private static final String USERS_PATH = "app/src/main/java/org/example/localDb/users.jason";
 
      public UserBookingService(User user1) throws IOException
      {
